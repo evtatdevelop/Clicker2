@@ -1,0 +1,19 @@
+.btn_clicker{
+    width: 42px;
+    height: 42px;
+    border: 1px solid #424242;
+    font-size: 20px;
+    box-sizing: border-box;
+    outline: none;
+    margin: 0;
+}
+
+.inp_clicker{
+    width: 42px;
+    height: 42px;
+    border: 1px solid #424242;
+    font-size: 20px;
+    margin: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
